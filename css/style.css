@@ -1,0 +1,27 @@
+body{
+    background:#729292;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 50px;
+}
+h1 {
+   color:red; 
+   font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{ 
+    font-size: 18px;
+}
+img{
+    margin-bottom: 50px;
+}
+footer{
+    margin-bottom: 50px;
+}
